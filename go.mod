@@ -3,7 +3,7 @@ module github.com/phillip-d-shields/go-fiber-luwa-server
 go 1.21.6
 
 require (
-	github.com/gofiber/fiber/v2 v2.52.0
+	github.com/gofiber/fiber/v2 v2.52.1
 	github.com/mattn/go-sqlite3 v1.14.19
 )
 
